@@ -5,7 +5,7 @@
 #include <string>
 #include <sstream>
 
-#include "Render.h"
+#include "GLErrorHandling.h"
 
 #include "VertexBuffer.h"
 #include "IndexBuffer.h"
